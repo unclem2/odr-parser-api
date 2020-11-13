@@ -17,5 +17,8 @@
     "pastebin-js": "^1.0.5",
     "request": "^2.88.2",
     "unzipper": "^0.10.11"
+  },
+  "devDependencies": {
+    "@architect/sandbox": "^3.1.3"
   }
 }
